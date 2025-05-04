@@ -1,0 +1,7 @@
+{
+  "id": "pbox-connectionlimiter",
+  "name": "PBOX-ConnectionLimiter",
+  "version": "1.0.0",
+  "main": "com.pbox.connectionlimiter.PBOXConnectionLimiter",
+  "authors": ["ParadiseBOX"]
+}

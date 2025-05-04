@@ -1,0 +1,4 @@
+max_connections = 20
+period_seconds = 300
+deny_message = "Достигнут лимит подключений игроков. Пожалуйста, ожидайте {time} до сброса порога."
+debug = false
